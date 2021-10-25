@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+Melih here, I like C++ development on cross-platfrom.
